@@ -40,7 +40,7 @@ export default function Home() {
           <SearchDialog />
         </div>
 
-        <div className='mt-28 md:mt-40 text-center w-full'>
+        {/* <div className='mt-28 md:mt-40 text-center w-full'>
           <h2 className='text-slate-500'>更多好玩</h2>
           <ul className='grid grid-cols-2 md:grid-cols-3 gap-3 md:gap-5 mt-4 max-w-lg mx-auto text-xs'>
             <li>
@@ -70,9 +70,9 @@ export default function Home() {
               </Link>
             </li>
           </ul>
-        </div>
+        </div> */}
 
-        <div className="py-10 w-full md:flex items-center justify-center md:space-x-6">
+      {/*   <div className="py-10 w-full md:flex items-center justify-center md:space-x-6">
           <div className="flex items-center justify-center space-x-6 mt-4 md:m-0">
             <div className="opacity-75 transition hover:opacity-100 cursor-pointer">
               <Link
@@ -91,7 +91,7 @@ export default function Home() {
               </Link>
             </div>
           </div>
-        </div>
+        </div> */}
       </main>
     </>
   )
