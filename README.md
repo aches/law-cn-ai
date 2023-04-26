@@ -114,7 +114,7 @@ sequenceDiagram
 确保已安装并在本地运行 Docker。然后运行
 
 ```bash
-supabase start
+npx supabase start
 ```
 
 ### 启动 Next.js 应用程序
@@ -140,3 +140,10 @@ pnpm dev
 [![Video: How I Built Supabase's OpenAI Doc Search](https://img.youtube.com/vi/Yhtjd7yGGGA/0.jpg)](https://www.youtube.com/watch?v=Yhtjd7yGGGA)
 
     此文件由 ChatGPT 提供翻译
+    
+   
+   
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lvwzhen/law-cn-ai&type=Date)](https://star-history.com/#lvwzhen/law-cn-ai&Date)
+
